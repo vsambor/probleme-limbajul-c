@@ -1,4 +1,4 @@
-//  Probleme HubIT | # 3 | Intermediar
+//  Probleme HubIT | # 3 | Mediu
 //
 //  ENUNȚ:
 //  Să se calculeze suma cifrelor tuturor elementelor dintr-un vector introdus de la tastatura de lungime "N".
@@ -80,4 +80,3 @@ int suma_cifrelor_vector(int vector[], int lungime_vector) {
   
   return suma;
 }
-

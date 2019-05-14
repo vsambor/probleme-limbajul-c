@@ -1,4 +1,4 @@
-//  Probleme HubIT | # 2 | Începator
+//  Probleme HubIT | # 1 | Începator
 //
 //  CERINȚĂ:
 //  Să se afișeze pe ecran suma a două numere întregi citite de la tastatuă.
